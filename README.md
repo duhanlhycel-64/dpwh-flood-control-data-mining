@@ -5,7 +5,7 @@ A data mining and exploratory data analysis (EDA) project focused on examining D
 ## Project Overview
 This project processes and analyzes dataset records of flood control projects (`dpwh_flood_control_projects.csv`) through exploratory data analysis, K-Means clustering ($K=8$), and Isolation Forest outlier detection (`DPWH_Flood_Control_Data_Mining_Exploration.ipynb`) to uncover trends, financial relationships, distributions, and infrastructure insights.
 
-## 🛠️ Tech Stack & Libraries
+## Tech Stack & Libraries
 - **Language:** Python
 - **Environment:** Google Colab / Jupyter Notebook
 - **Libraries:** 
